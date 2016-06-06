@@ -1,4 +1,4 @@
-FROM alpine
+FROM alpine:3.4
 MAINTAINER Jan Garaj info@monitoringartist.com
 
 ENV \
